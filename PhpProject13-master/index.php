@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
-        echo "this is program2 from Adam R";
+        echo "i will Edit the world";
         ?>
     </body>
 </html>
